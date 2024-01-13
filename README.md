@@ -4,7 +4,7 @@
 This document provides a simplified guide for conducting customer churn analysis using Power BI. The dataset includes various customer attributes, such as gender, tenure, service subscriptions, and payment details.
 
 ### Data Sources 
-Customer Data: The primary dataset used for this analysis "Cutomer_churn_analysis" .
+Customer Data: The primary dataset used for this analysis "Cutomer_churn_analysis." .
 
 ### Data Overview
 The dataset contains the following columns:
@@ -38,14 +38,18 @@ The dataset contains the following columns:
 
 
 ### Tools
-Excel - Data cleaning 
-PowerBI - Creating reports
+
+1.Excel - Data cleaning 
+
+2.PowerBI - Creating reports
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 1.Data loading and inspection.
+
 2.Handling missing values.
+
 3.Data cleaning and formatting.
 
 ### Conclusion
