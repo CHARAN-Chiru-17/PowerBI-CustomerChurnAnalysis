@@ -6,7 +6,7 @@ This document provides a simplified guide for conducting customer churn analysis
 ### Data Sources 
 Customer Data: The primary dataset used for this analysis "Cutomer_churn_analysis" .
 
-#### Data Overview
+### Data Overview
 The dataset contains the following columns:
 
 Customer ID: Unique identifier for each customer.
@@ -25,11 +25,11 @@ MonthlyCharges: Monthly charges incurred by the customer.
 TotalCharges: Total charges incurred by the customer.
 Churn: Whether the customer has churned (Yes/No).
 
-##### Tools
+### Tools
 Excel - Data cleaning 
 PowerBI - Creating reports
 
-###### Data Cleaning/Preparation
+### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 1.Data loading and inspection.
