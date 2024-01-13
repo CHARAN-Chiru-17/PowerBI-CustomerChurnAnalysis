@@ -9,6 +9,7 @@ Customer Data: The primary dataset used for this analysis "Cutomer_churn_analysi
 ### Data Overview
 The dataset contains the following columns:
 
+
 1.Customer ID: Unique identifier for each customer.
 2.Gender: Customer's gender (Male/Female).
 3.SeniorCitizen: Whether the customer is a senior citizen (0/1).
