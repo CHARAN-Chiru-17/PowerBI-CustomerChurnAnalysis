@@ -11,17 +11,29 @@ The dataset contains the following columns:
 
 
 1.Customer ID: Unique identifier for each customer.
+
 2.Gender: Customer's gender (Male/Female).
+
 3.SeniorCitizen: Whether the customer is a senior citizen (0/1). 4.Partner: Whether the customer has a partner (Yes/No).
+
 5.Dependents: Whether the customer has dependents (Yes/No). 
+
 6.Tenure: Number of months the customer has been with the service. 
+
 7.PhoneService: Whether the customer has phone service (Yes/No). 8.MultipleLines: Whether the customer has multiple phone lines. 
+
 9.OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies: Various services subscribed by the customer. 
+
 10.Contract: Type of contract (Month-to-month, One year). 
+
 11.PaperlessBilling: Whether the customer uses paperless billing (Yes/No). 
+
 12PaymentMethod: Payment method used by the customer. 
+
 13.MonthlyCharges: Monthly charges incurred by the customer. 
+
 14.TotalCharges: Total charges incurred by the customer. 
+
 15.Churn: Whether the customer has churned (Yes/No).
 
 
